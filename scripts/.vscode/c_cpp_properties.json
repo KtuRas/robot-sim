@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/image_transport_plugins/compressed_depth_image_transport/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/image_transport_plugins/compressed_image_transport/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/image_transport_tutorial/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/jetson_pkg/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/qt_ros/my_server/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/rosbag_saver/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/rosserial/rosserial_server/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/rosserial/rosserial_test/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/image_transport_plugins/theora_image_transport/include",
+        "/home/baser-ubuntu/ros_workspaces/qt_workspace/src/zed_test/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
